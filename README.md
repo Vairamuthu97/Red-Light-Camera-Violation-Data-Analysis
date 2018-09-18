@@ -1,2 +1,2 @@
 # Red-Light-Camera-Violation-Data-Analysis
-Collected 4 years of data to analyze the frequency and time of violence on a weekly, daily and hourly basisusing Python  
+For this project I want to extract the date and the corresponding number of red light violations in the City of Chicago and do a linear regression on the data, using NumPy. The data is contained in the 50.2 MB file Red_Light_Camera_Violations.csv Since the file is bigger, I could not upload the Raw File, However,obtained from the City of Chicago's Data Portal (https://data.cityofchicago.org/). This file contains data from July 1, 2014 to November 1,2017. Include the entire range of dates in your analysis. 
