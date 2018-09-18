@@ -1,0 +1,8 @@
+DAY| Violations 
+Thursday|252361
+Wednesday|241276
+Tuesday|236990
+Monday|233111
+Sunday|267820
+Saturday|295634
+Friday|275875
